@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "KROWNN KROWNN-clone",
-    "currentPage": "index.html",
+    "currentPage": "html.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1359,6 +1359,30 @@
           "_params": {}
         }
       ]
+    },
+    "httpsclickagency.ioint-web-dev-email-marketing.html": {
+      "settings": {
+        "meta_descr": "Web Site Maker Description",
+        "title": "SEO",
+        "order": 3
+      },
+      "components": []
+    },
+    "httpsclickagency.ioint-web-dev-social-media.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "Social Media",
+        "order": 2
+      },
+      "components": []
+    },
+    "html.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "Email",
+        "order": 1
+      },
+      "components": []
     }
   }
 }
