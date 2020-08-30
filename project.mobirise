@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "KROWNN KROWNN-clone",
-    "currentPage": "html.html",
+    "name": "SEO SOCIETY",
+    "currentPage": "businesscards.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -62,7 +62,23 @@
     "gdpr": false
   },
   "pages": {
-    "index.html": {
+    "emailmarketing.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "Email",
+        "order": 56
+      },
+      "components": []
+    },
+    "social media management.ioint-web-dev-social-media.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "Social Media",
+        "order": 57
+      },
+      "components": []
+    },
+    "HomePage.html": {
       "settings": {
         "main": true,
         "title": "Home",
@@ -1360,26 +1376,450 @@
         }
       ]
     },
-    "httpsclickagency.ioint-web-dev-email-marketing.html": {
+    "seosociety.ioint-web-dev-email-marketing.html": {
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "SEO",
+        "order": 58
+      },
+      "components": []
+    },
+    "leadgrow.html": {
+      "settings": {
+        "meta_descr": "Web Site Generator Description",
+        "title": "Lead Grow",
+        "order": 55
+      },
+      "components": []
+    },
+    "uduala.html": {
+      "settings": {
+        "meta_descr": "Website Maker Description",
+        "title": "Uduala",
+        "order": 54
+      },
+      "components": []
+    },
+    "socicake.html": {
+      "settings": {
+        "meta_descr": "Website Maker Description",
+        "title": "SociCake",
+        "order": 53
+      },
+      "components": []
+    },
+    "clickagency.html": {
+      "settings": {
+        "meta_descr": "Web Page Maker Description",
+        "title": "Click Agency",
+        "order": 52
+      },
+      "components": []
+    },
+    "designbundle.html": {
+      "settings": {
+        "meta_descr": "Web Page Builder Description",
+        "title": "Design Bundle",
+        "order": 51
+      },
+      "components": []
+    },
+    "page9.html": {
+      "settings": {
+        "meta_descr": "Web Builder Description",
+        "title": "Conversio Bot",
+        "order": 50
+      },
+      "components": []
+    },
+    "content burger.html": {
+      "settings": {
+        "meta_descr": "Site Maker Description",
+        "title": "Content Burger",
+        "order": 49
+      },
+      "components": []
+    },
+    "roboticspayday.html": {
+      "settings": {
+        "meta_descr": "Web Page Generator Description",
+        "title": "Robotics Payday",
+        "order": 48
+      },
+      "components": []
+    },
+    "dfyservicesmarketplace.html": {
+      "settings": {
+        "meta_descr": "Web Page Creator Description",
+        "title": "DFY Services Marketplace",
+        "order": 47
+      },
+      "components": []
+    },
+    "ecommercemarketplaces.html": {
+      "settings": {
+        "meta_descr": "Web Page Creator Description",
+        "title": "Ecommmerce Marketplaces",
+        "order": 46
+      },
+      "components": []
+    },
+    "ecommercestores.html": {
+      "settings": {
+        "meta_descr": "Web Page Maker Description",
+        "title": "Ecommerce Stores",
+        "order": 45
+      },
+      "components": []
+    },
+    "ecommerceplatform.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "Ecommerce Platform",
+        "order": 44
+      },
+      "components": []
+    },
+    "bitrix24.html": {
+      "settings": {
+        "meta_descr": "Website Maker Description",
+        "title": "Bitrix24",
+        "order": 43
+      },
+      "components": []
+    },
+    "seooptimizer.html": {
+      "settings": {
+        "meta_descr": "Web Generator Description",
+        "title": "SEO Optimizer",
+        "order": 42
+      },
+      "components": []
+    },
+    "dfyherothemes.html": {
+      "settings": {
+        "meta_descr": "Web Page Builder Description",
+        "title": "DFY Hero Themes",
+        "order": 41
+      },
+      "components": []
+    },
+    "page20.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "Int App Development",
+        "order": 39
+      },
+      "components": []
+    },
+    "nicewebsitebuilder.html": {
+      "settings": {
+        "meta_descr": "Site Generator Description",
+        "title": "Nice Website  Builder",
+        "order": 40
+      },
+      "components": []
+    },
+    "liteappdevelopment.html": {
+      "settings": {
+        "meta_descr": "Site Builder Description",
+        "title": "Lite App Development",
+        "order": 38
+      },
+      "components": []
+    },
+    "unlimitedhostingplans.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "Unlimited Hosting Plans",
+        "order": 37
+      },
+      "components": []
+    },
+    "website hosting.html": {
+      "settings": {
+        "meta_descr": "Web Page Maker Description",
+        "title": "Website Hosting",
+        "order": 36
+      },
+      "components": []
+    },
+    "domains.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "Domains",
+        "order": 35
+      },
+      "components": []
+    },
+    "minorplugins.html": {
+      "settings": {
+        "meta_descr": "Website Maker Description",
+        "title": "Minor Plugins",
+        "order": 34
+      },
+      "components": []
+    },
+    "majorplugins.html": {
+      "settings": {
+        "meta_descr": "Web Page Generator Description",
+        "title": "Major Plugins",
+        "order": 33
+      },
+      "components": []
+    },
+    "integrations.html": {
+      "settings": {
+        "meta_descr": "Site Creator Description",
+        "title": "Integrations",
+        "order": 32
+      },
+      "components": []
+    },
+    "socialnetwork.html": {
+      "settings": {
+        "meta_descr": "Web Builder Description",
+        "title": "Social Network",
+        "order": 31
+      },
+      "components": []
+    },
+    "workspace.html": {
+      "settings": {
+        "meta_descr": "Web Builder Description",
+        "title": "Workspace",
+        "order": 30
+      },
+      "components": []
+    },
+    "contentcreatorgenerator.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "Content Creator Generator",
+        "order": 29
+      },
+      "components": []
+    },
+    "blog.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "Blog",
+        "order": 27
+      },
+      "components": []
+    },
+    "agencyreel.html": {
+      "settings": {
+        "meta_descr": "Site Generator Description",
+        "title": "Agency Reel",
+        "order": 28
+      },
+      "components": []
+    },
+    "Spark.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "Spark",
+        "order": 26
+      },
+      "components": []
+    },
+    "templates-themes.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "Templates-Themes",
+        "order": 25
+      },
+      "components": []
+    },
+    "hosting.html": {
+      "settings": {
+        "meta_descr": "Web Builder Description",
+        "title": "Hosting",
+        "order": 24
+      },
+      "components": []
+    },
+    "edirectory.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "edirectory",
+        "order": 23
+      },
+      "components": []
+    },
+    "contentstudio.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "Content Studio",
+        "order": 22
+      },
+      "components": []
+    },
+    "localbusinesslistings.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "Local Business Listings",
+        "order": 21
+      },
+      "components": []
+    },
+    "localclassifiedads.html": {
+      "settings": {
+        "meta_descr": "Site Creator Description",
+        "title": "Local Classified Ads",
+        "order": 20
+      },
+      "components": []
+    },
+    "pressreleases.html": {
+      "settings": {
+        "meta_descr": "Web Creator Description",
+        "title": "Press Releases",
+        "order": 19
+      },
+      "components": []
+    },
+    "articlesubmissions.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "Article Submissions",
+        "order": 18
+      },
+      "components": []
+    },
+    "backlinks.html": {
+      "settings": {
+        "meta_descr": "Web Page Builder Description",
+        "title": "Backlinks",
+        "order": 17
+      },
+      "components": []
+    },
+    "socialprofiles.html": {
+      "settings": {
+        "meta_descr": "Web Site Creator Description",
+        "title": "Social Profiles",
+        "order": 16
+      },
+      "components": []
+    },
+    "socialfollowerslikesviews.html": {
+      "settings": {
+        "meta_descr": "Site Builder Description",
+        "title": "Social followers, likes, views",
+        "order": 15
+      },
+      "components": []
+    },
+    "socialmediarobotics.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "Social Media Robotics",
+        "order": 14
+      },
+      "components": []
+    },
+    "trafficbots.html": {
+      "settings": {
+        "meta_descr": "Web Site Creator Description",
+        "title": "Traffic Bots",
+        "order": 13
+      },
+      "components": []
+    },
+    "page47.html": {
+      "settings": {
+        "meta_descr": "Web Site Maker Description",
+        "title": "Page 47",
+        "order": 12
+      },
+      "components": []
+    },
+    "ezsalaryz.html": {
+      "settings": {
+        "meta_descr": "Web Site Maker Description",
+        "title": "EZ Salaryz",
+        "order": 11
+      },
+      "components": []
+    },
+    "webdesign.html": {
+      "settings": {
+        "meta_descr": "Site Creator Description",
+        "title": "Web Design",
+        "order": 10
+      },
+      "components": []
+    },
+    "wordpresshosting.html": {
+      "settings": {
+        "meta_descr": "Site Creator Description",
+        "title": "Wordpress Hosting",
+        "order": 9
+      },
+      "components": []
+    },
+    "sitepadwebsitebuilder.html": {
+      "settings": {
+        "meta_descr": "Website Creator Description",
+        "title": "SitePad Website Builder",
+        "order": 8
+      },
+      "components": []
+    },
+    "forms.html": {
+      "settings": {
+        "meta_descr": "Web Builder Description",
+        "title": "Forms",
+        "order": 7
+      },
+      "components": []
+    },
+    "hubspout.html": {
+      "settings": {
+        "meta_descr": "Website Maker Description",
+        "title": "Hubspout",
+        "order": 6
+      },
+      "components": []
+    },
+    "reviews.html": {
+      "settings": {
+        "meta_descr": "Web Page Builder Description",
+        "title": "Reviews",
+        "order": 5
+      },
+      "components": []
+    },
+    "thinkificcourses.html": {
+      "settings": {
+        "meta_descr": "Web Page Maker Description",
+        "title": "Thinkific Courses",
+        "order": 4
+      },
+      "components": []
+    },
+    "logoservices.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "Logo Services",
         "order": 3
       },
       "components": []
     },
-    "httpsclickagency.ioint-web-dev-social-media.html": {
+    "graphicdesignsoftware.html": {
       "settings": {
         "meta_descr": "Web Site Builder Description",
-        "title": "Social Media",
+        "title": "Graphic Design Software",
         "order": 2
       },
       "components": []
     },
-    "html.html": {
+    "businesscards.html": {
       "settings": {
-        "meta_descr": "Web Site Builder Description",
-        "title": "Email",
+        "meta_descr": "Web Page Maker Description",
+        "title": "Business Cards",
         "order": 1
       },
       "components": []
